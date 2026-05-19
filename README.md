@@ -189,14 +189,6 @@ using any browser.
 
 GitHub automatically generates your website link.
 
----
-
-# Project Website Link
-
-https://your-github-pages-link.com
-
----
-
 # Developed By
 
 ## Akhilesh Kakarla  
