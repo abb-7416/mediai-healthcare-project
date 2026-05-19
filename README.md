@@ -1,11 +1,11 @@
-MediAI – AI-Based Healthcare Symptom Prediction System
-Project Overview
+**MediAI – AI-Based Healthcare Symptom Prediction System**
+**Project Overview**
 
 MediAI is a web-based healthcare prediction system developed using Artificial Intelligence and Machine Learning concepts. The project helps users predict possible diseases based on symptoms entered through the application. The system provides healthcare recommendations, prediction analysis, and basic medical precautions using a simple and user-friendly interface.
 
 The project is developed as a PGDM AI & DS final project and demonstrates the practical implementation of Artificial Intelligence technologies in the healthcare sector.
 
-Features
+**Features**
 AI-Based Disease Prediction
 Symptom Checker System
 Healthcare Recommendations
@@ -15,19 +15,19 @@ User Registration and Login
 Responsive Modern UI
 Interactive Charts and Graphs
 Single Page Dynamic Website
-Technologies Used
+**Technologies Used**
 Frontend
 HTML
 CSS
 JavaScript
-Machine Learning Concepts
+**Machine Learning Concepts**
 Random Forest
 Decision Tree
 Logistic Regression
 Support Vector Machine (SVM)
-Dashboard Charts
+**Dashboard Charts**
 Chart.js
-Project Modules
+**Project Modules**
 Home Page
 About Project
 Features Page
@@ -37,17 +37,17 @@ Symptom Checker
 Disease Prediction System
 Dashboard Analytics
 Contact Page
-Disease Prediction Logic
+**Disease Prediction Logic**
 
 The healthcare prediction system predicts diseases based on symptoms entered by users.
 
-Example Predictions
+**Example Predictions**
 Symptoms	Predicted Disease
 Fever + Cough	Viral Fever
 Cold + Fever	Flu
 Headache + Vomiting	Migraine
 Chest Pain	Heart Related Issue
-Dashboard Features
+**Dashboard Features**
 
 The dashboard includes:
 
